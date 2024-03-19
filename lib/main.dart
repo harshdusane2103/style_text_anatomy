@@ -33,6 +33,7 @@ class MyApp extends StatelessWidget {
                     fontWeight: FontWeight.w700,
                     fontSize: 48,
                     decoration: TextDecoration.underline,
+                    decorationStyle:TextDecorationStyle.double,
                     decorationColor: Colors.yellow,
                   )),
             ]),
